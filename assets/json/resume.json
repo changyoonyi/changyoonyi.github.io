@@ -18,6 +18,26 @@
       "startDate": "2020-03-01",
       "endDate": "2026-02-28",
       "score": "10"
+    },
+    {
+      "institution": "Yonsei University",
+      "location": "Seoul, South Korea",
+      "url": "https://ee.yonsei.ac.kr/",
+      "area": "Electrical and Electronic Engineering",
+      "studyType": "B.S.",
+      "startDate": "2015-03-01",
+      "endDate": "2020-02-28",
+      "score": "10"
+    },
+    {
+      "institution": "Busan Science High School",
+      "location": "Busan, South Korea",
+      "url": "https://school.busanedu.net/bss-h/main.do",
+      "area": "Physics",
+      "studyType": "High School",
+      "startDate": "2013-03-01",
+      "endDate": "2015-02-28",
+      "score": "10"
     }
   ],
   "work": [
@@ -29,9 +49,7 @@
       "endDate": "Present",
       "summary": "Imaging Intelligence Laboratory (Advisor: Prof. Seung Ah Lee),
       "highlights": ["Speckle signal processing for optical coherence rheology","Fluorescence microscopy for functional organoid imaging"]
-    }
-  ],
-  [
+    },
     {
       "name": "Department of Mechanical Engineering, Seoul National University",
       "position": "Graduate Research Assistant",
@@ -40,9 +58,7 @@
       "endDate": "2026-02-28",
       "summary": "Imaging Intelligence Laboratory (Advisor: Prof. Seung Ah Lee),
       "highlights": ["Learning-assisted, polarization-multiplexed compact lensless eye trackers"]
-    }
-  ],
-[
+    },
     {
       "name": "Department of Electrical and Electronic Engineering, Yonsei University",
       "position": "Graduate Research Assistant",
@@ -51,10 +67,17 @@
       "endDate": "2025-03-31",
       "summary": "Optical Imaging Systems Laboratory (Advisor: Prof. Seung Ah Lee),
       "highlights": ["Rolling shutter speckle imaging (RSSI) for quantitative analysis of dynamic scattering","Single-shot in vivo blood flow imaging and speckle plethysmography", "Artistic interactive biology using physiological signals"]
+    },
+    {
+      "name": "Department of Electrical and Electronic Engineering, Yonsei University",
+      "position": "Undergraduate Research Assistant",
+      "url": "https://nbdl.yonsei.ac.kr",
+      "startDate": "2019-02-01",
+      "endDate": "2019-12-31",
+      "summary": "Nanobio Device Laboratory (Advisor: Prof. Taeyoon Lee),
+      "highlights": ["Stretchable conductive fiber fabrication for wearable electronics"]
     }
   ],
-  
-  
   "awards": [
     {
       "title": "Nobel Prize in Physics",
