@@ -108,11 +108,11 @@
   ],
   "publications": [
     {
-      "name": "Rolling shutter speckle plethysmography for quantitative cardiovascular monitoring",
+      "name": "Rolling Shutter Speckle Plethysmography for Quantitative Cardiovascular Monitoring",
       "publisher": "Biomedical Optics Express",
       "releaseDate": "2024",
       "url": "https://doi.org/10.1364/BOE.511755",
-      "summary": "Y. Lee, S. Byun, C. Yi, J. Jung, S. A. Lee.",
+      "summary": "Yujin Lee, Sangjun Byun, Changyoon Yi, Jaewoo Jung, Seung Ah Lee",
       "type": "journal"
     },
     {
@@ -167,14 +167,14 @@
   "awards": [
     {
       "title": "Best Poster Award",
-      "date": "2025",
-      "awarder": "Advanced Biophotonics Conference, SPIE",
+      "date": "2023",
+      "awarder": "SPIE Advanced Biophotonics Conference",
       "summary": ""
     },
     {
-      "title": "Best Poster Award",
-      "date": "2022",
-      "awarder": "Advanced Biophotonics Conference, Optical Society of Korea",
+      "title": "Brain Korea Outstanding Graduate Student Award",
+      "date": "2023",
+      "awarder": "Yonsei University",
       "summary": ""
     },
     {
