@@ -106,7 +106,7 @@
       ]
     }
   ],
-  "peer-reviewed publications": [
+  "publications": [
     {
       "name": "Rolling Shutter Speckle Plethysmography for Quantitative Cardiovascular Monitoring",
       "publisher": "Biomedical Optics Express",
@@ -148,6 +148,56 @@
       "type": "journal"
     }
   ],
+  "awards": [
+    {
+      "title": "Best Poster Award",
+      "date": "2023",
+      "awarder": "SPIE Advanced Biophotonics Conference",
+      "summary": ""
+    },
+    {
+      "title": "Brain Korea Outstanding Graduate Student Award",
+      "date": "2023",
+      "awarder": "Yonsei University",
+      "summary": ""
+    },
+    {
+      "title": "Brain Korea Academic Research Fellowship",
+      "date": "2023",
+      "awarder": "Yonsei University",
+      "summary": ""
+    },
+    {
+      "title": "Young Investigator Award",
+      "date": "2022",
+      "awarder": "OSK Advanced Biophotonics Conference",
+      "summary": ""
+    },
+    {
+      "title": "Brain Korea Academic Research Fellowship",
+      "date": "2022",
+      "awarder": "Yonsei University",
+      "summary": ""
+    },
+    {
+      "title": "Best Poster Award",
+      "date": "2020",
+      "awarder": "OSK Advanced Biophotonics Conference",
+      "summary": ""
+    },
+    {
+      "title": "Academic Excellence Graduate Scholarship",
+      "date": "2020",
+      "awarder": "Yonsei University",
+      "summary": ""
+    },
+    {
+      "title": "Academic Excellence Undergraduate Scholarship",
+      "date": "2015",
+      "awarder": "Yonsei University",
+      "summary": ""
+    },
+  ],
   "skills": [
     {
       "name": "Programming Languages",
@@ -160,56 +210,6 @@
       "level": "",
       "icon": "fa-solid fa-toolbox",
       "keywords": ["Rhinoceros", "KeyShot"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Best Poster Award",
-      "date": "2025",
-      "awarder": "Advanced Biophotonics Conference, SPIE",
-      "summary": ""
-    },
-    {
-      "title": "Best Poster Award",
-      "date": "2022",
-      "awarder": "Advanced Biophotonics Conference, Optical Society of Korea",
-      "summary": ""
-    },
-    {
-      "title": "Silver Award",
-      "date": "2022",
-      "awarder": "28th Samsung Humantech Paper Awards (Samsung Electronics)",
-      "summary": ""
-    },
-    {
-      "title": "Grant",
-      "date": "2019",
-      "awarder": "Undergraduate Research Program, KOFAC",
-      "summary": ""
-    },
-    {
-      "title": "4th Place",
-      "date": "2019",
-      "awarder": "International Student Car Competition, KTSA",
-      "summary": ""
-    },
-    {
-      "title": "2nd Place",
-      "date": "2018",
-      "awarder": "International Student Car Competition, KTSA",
-      "summary": ""
-    },
-    {
-      "title": "1st Place",
-      "date": "2013",
-      "awarder": "Embedded Software Contest, KESSIA",
-      "summary": ""
-    },
-    {
-      "title": "1st Place",
-      "date": "2013",
-      "awarder": "R&E Festival, KOSAF",
-      "summary": ""
     }
   ],
   "certificates": [],
