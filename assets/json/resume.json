@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Jaewoo Jung",
-    "label": "AI/ML Engineer",
+    "name": "Changyoon Yi",
+    "label": "Optical Engineer",
     "image": "",
-    "email": "dev@lukael.kr",
+    "email": "navigator@yonsei.kr",
     "phone": "",
-    "url": "https://lukael.kr",
+    "url": "https://cyi.kr",
     "summary": "",
     "location": {
       "city": "Seoul",
@@ -13,31 +13,31 @@
       "region": "South Korea"
     },
     "profiles": [
-      { "network": "LinkedIn", "username": "lukael", "url": "https://www.linkedin.com/in/lukael" },
-      { "network": "GitHub", "username": "Lukael", "url": "https://github.com/Lukael" },
-      { "network": "Google Scholar", "username": "sFVeMfUAAAAJ", "url": "https://scholar.google.com/citations?user=sFVeMfUAAAAJ" }
+      { "network": "LinkedIn", "username": "changyoonyi", "url": "https://www.linkedin.com/in/changyoonyi" },
+      { "network": "GitHub", "username": "changyoonyi", "url": "https://github.com/changyoonyi" },
+      { "network": "Google Scholar", "username": "b2EF-yoAAAAJ", "url": "https://scholar.google.com/citations?user=b2EF-yoAAAAJ" }
     ]
   },
   "education": [
     {
-      "institution": "Changwon Science High School",
-      "location": "Changwon, South Korea",
-      "url": "https://csh-h.gne.go.kr/csh-h/main.do",
-      "area": "Chemistry",
+      "institution": "Busan Science High School",
+      "location": "Busan, South Korea",
+      "url": "https://school.busanedu.net/bss-h/main.do",
+      "area": "Physics",
       "studyType": "High School",
       "startDate": "2013-03-01",
-      "endDate": "2015-02-01",
+      "endDate": "2015-02-28",
       "courses": [],
-      "highlights": ["Early Graduated"]
+      "highlights": ["Early Graduation"]
     },
     {
       "institution": "Yonsei University",
       "location": "Seoul, South Korea",
       "url": "https://ee.yonsei.ac.kr",
-      "area": "Electrical and Electronics Engineering",
+      "area": "Electrical and Electronic Engineering",
       "studyType": "B.S.",
       "startDate": "2015-03-01",
-      "endDate": "2020-02-01",
+      "endDate": "2020-02-28",
       "courses": [],
       "highlights": []
     },
@@ -45,10 +45,10 @@
       "institution": "Yonsei University",
       "location": "Seoul, South Korea",
       "url": "https://ee.yonsei.ac.kr",
-      "area": "Electrical and Electronics Engineering",
-      "studyType": "Ph.D. Candidate",
+      "area": "Electrical and Electronic Engineering",
+      "studyType": "M.S. & Ph.D.",
       "startDate": "2020-03-01",
-      "endDate": "",
+      "endDate": "2026-02-28",
       "courses": [],
       "highlights": ["Advisor: Prof. Seung Ah Lee"]
     }
@@ -56,101 +56,53 @@
   "work": [
     {
       "name": "Seoul National University",
-      "position": "Research Engineer",
+      "position": "Postdoctoral Fellow",
       "location": "Seoul, South Korea",
-      "url": "",
-      "startDate": "2025-07-01",
+      "url": "https://imaging.snu.ac.kr",
+      "startDate": "2026-03-01",
       "endDate": "",
-      "summary": "Imaging Intelligence Laboratory, supervised by Prof. Seung Ah Lee.",
+      "summary": "Department of Mechanical Engineering (Advisor: Prof. Seung Ah Lee)",
       "highlights": [
-        "Researched deep learning–based lensless image reconstruction",
-        "Oversaw GPU server operation, maintenance, and resource management"
+        "Speckle signal processing for optical coherence rheology",
+        "Fluorescence microscopy for functional organoid imaging"
       ]
     },
     {
-      "name": "LUXROBO Co., Ltd.",
-      "position": "Research Engineer",
+      "name": "Seoul National University",
+      "position": "Graduate Research Assistant",
       "location": "Seoul, South Korea",
-      "url": "https://luxrobo.com",
-      "startDate": "2023-07-01",
-      "endDate": "2025-06-01",
-      "summary": "MODI Factory.",
+      "url": "https://imaging.snu.ac.kr",
+      "startDate": "2025-04-01",
+      "endDate": "2026-02-28",
+      "summary": "Imaging Intelligence Laboratory (Advisor: Prof. Seung Ah Lee)",
       "highlights": [
-        "Designed and developed AI models for automated PCB component placement and routing",
-        "Built backend systems in Go for AI-driven EDA workflows",
-        "Deployed and validated AI model serving pipelines",
-        "Implemented LLM-based systems for intelligent electronic component categorization and recommendation",
-        "Constructed structured databases for electronic component management"
+        "Learning-assisted, polarization-multiplexed lensless eye trackers"
       ]
     },
     {
       "name": "Yonsei University",
       "position": "Graduate Research Assistant",
       "location": "Seoul, South Korea",
-      "url": "https://ee.yonsei.ac.kr",
-      "startDate": "2020-03-01",
-      "endDate": "2023-08-01",
-      "summary": "Optical Imaging Laboratory, supervised by Prof. Seung Ah Lee.",
+      "url": "https://imaging.snu.ac.kr",
+      "startDate": "2020-01-01",
+      "endDate": "2025-03-31",
+      "summary": "Optical Imaging Systems Laboratory (Advisor: Prof. Seung Ah Lee)",
       "highlights": [
-        "Researched deep learning–based lensless image reconstruction",
-        "Researched lensless holographic microscopy and image reconstruction methods",
-        "Oversaw GPU server operation, maintenance, and resource management"
+        "Rolling shutter speckle imaging (RSSI) for quantitative analysis of dynamic scattering",
+        "Single-shot in vivo blood flow imaging and speckle plethysmography",
+        "Artistic interactive biology using physiological signals"
       ]
     },
     {
       "name": "Yonsei University",
-      "position": "Intern",
+      "position": "Undergraduate Research Assistant",
       "location": "Seoul, South Korea",
-      "url": "https://ee.yonsei.ac.kr",
-      "startDate": "2019-01-01",
-      "endDate": "2020-03-01",
-      "summary": "Optical Imaging Laboratory, supervised by Prof. Seung Ah Lee.",
+      "url": "https://nbdl.yonsei.ac.kr",
+      "startDate": "2019-02-01",
+      "endDate": "2019-12-31",
+      "summary": "Nanobio Device Laboratory (Advisor: Prof. Taeyoon Lee)",
       "highlights": [
-        "Researched lensless holographic microscopy and image reconstruction methods",
-        "Researched human–biological interactions"
-      ]
-    },
-    {
-      "name": "Toky",
-      "position": "Co-Founder & Engineer",
-      "location": "Seoul, South Korea",
-      "url": "",
-      "startDate": "2019-07-01",
-      "endDate": "2020-02-01",
-      "summary": "Tabletop voice-controlled kiosk.",
-      "highlights": [
-        "Developed and optimized embedded firmware for voice recognition systems",
-        "Fine-tuned speech recognition models for on-device inference"
-      ]
-    },
-    {
-      "name": "Yonsei University",
-      "position": "Intern",
-      "location": "Seoul, South Korea",
-      "url": "https://cog.yonsei.ac.kr",
-      "startDate": "2016-08-01",
-      "endDate": "2018-12-01",
-      "summary": "Biological Cybernetics Laboratory, supervised by Prof. Dae Eun Kim.",
-      "highlights": [
-        "Researched swarm robotics using vibration-based locomotion robots",
-        "Designed and fabricated experimental robotic hardware",
-        "Developed ESP32-based firmware for robot control and communication (Wi-Fi, BLE)",
-        "Implemented over-the-air (OTA) update systems for robot firmware updates"
-      ]
-    },
-    {
-      "name": "LUXROBO Co., Ltd.",
-      "position": "Research Engineer",
-      "location": "Seoul, South Korea",
-      "url": "https://luxrobo.com",
-      "startDate": "2017-03-01",
-      "endDate": "2017-12-01",
-      "summary": "Embedded Firmware Development.",
-      "highlights": [
-        "Developed ESP32-based firmware for MODI network modules",
-        "Architected Wi-Fi and BLE protocol stacks for modular devices",
-        "Designed and validated a Bluetooth 5 mesh networking prototype",
-        "Conducted RTOS performance and reliability testing using Contiki OS"
+        "Stretchable conductive fiber fabrication for wearable electronics"
       ]
     }
   ],
