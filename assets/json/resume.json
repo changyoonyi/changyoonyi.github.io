@@ -3,7 +3,7 @@
     "name": "Changyoon Yi",
     "label": "Optical Engineer",
     "image": "",
-    "email": "navigator@yonsei.kr",
+    "email": "navigator@yonsei.ac.kr",
     "phone": "",
     "url": "https://cyi.kr",
     "summary": "",
@@ -106,26 +106,6 @@
       ]
     }
   ],
-  "skills": [
-    {
-      "name": "Programming Languages",
-      "level": "",
-      "icon": "fa-solid fa-code",
-      "keywords": ["Python", "C/C++", "Go", "MATLAB"]
-    },
-    {
-      "name": "ML Frameworks",
-      "level": "",
-      "icon": "fa-solid fa-brain",
-      "keywords": ["PyTorch"]
-    },
-    {
-      "name": "Tools",
-      "level": "",
-      "icon": "fa-solid fa-toolbox",
-      "keywords": ["Docker", "Git", "EasyEDA", "SketchUp"]
-    }
-  ],
   "publications": [
     {
       "name": "Rolling shutter speckle plethysmography for quantitative cardiovascular monitoring",
@@ -182,6 +162,26 @@
       "url": "https://doi.org/10.1021/acsphotonics.1c00350",
       "summary": "K. C. Lee, K. Lee, J. Jung, S. H. Lee, D. Kim, S. A. Lee.",
       "type": "journal"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Python", "C/C++", "Go", "MATLAB"]
+    },
+    {
+      "name": "ML Frameworks",
+      "level": "",
+      "icon": "fa-solid fa-brain",
+      "keywords": ["PyTorch"]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "icon": "fa-solid fa-toolbox",
+      "keywords": ["Docker", "Git", "EasyEDA", "SketchUp"]
     }
   ],
   "awards": [
