@@ -106,61 +106,45 @@
       ]
     }
   ],
-  "publications": [
+  "peer-reviewed publications": [
     {
-      "name": "Rolling shutter speckle plethysmography for quantitative cardiovascular monitoring",
+      "name": "Rolling Shutter Speckle Plethysmography for Quantitative Cardiovascular Monitoring",
       "publisher": "Biomedical Optics Express",
       "releaseDate": "2024",
       "url": "https://doi.org/10.1364/BOE.511755",
-      "summary": "Y. Lee, S. Byun, C. Yi, J. Jung, S. A. Lee.",
+      "summary": "Yujin Lee, Sangjun Byun, Changyoon Yi, Jaewoo Jung, Seung Ah Lee",
       "type": "journal"
     },
     {
-      "name": "High-resolution display screen as programmable illumination for Fourier ptychography",
-      "publisher": "Optics and Lasers in Engineering",
+      "name": "Improvements and Validation of Spatiotemporal Speckle Correlation Model for Rolling Shutter Speckle Imaging",
+      "publisher": "Biomedical Optics Express",
       "releaseDate": "2024",
-      "url": "https://doi.org/10.1016/j.optlaseng.2024.108121",
-      "summary": "K. Lee, K. C. Lee, J. Jung, H. Chae, S. A. Lee.",
+      "url": "https://doi.org/10.1364/BOE.514497",
+      "summary": "Changyoon Yi, Sangjun Byun, Yujin Lee, Seung Ah Lee",
       "type": "journal"
     },
     {
-      "name": "Design and single-shot fabrication of lensless cameras with arbitrary point spread functions",
-      "publisher": "Optica",
-      "releaseDate": "2023",
-      "url": "https://doi.org/10.1364/OPTICA.466072",
-      "summary": "K. C. Lee, J. Bae, N. Baek, J. Jung, W. Park, S. A. Lee.",
-      "type": "journal"
-    },
-    {
-      "name": "Single-shot temporal speckle correlation imaging using rolling shutter image sensors",
+      "name": "Single-shot Temporal Speckle Correlation Imaging Using Rolling Shutter Image Sensors",
       "publisher": "Optica",
       "releaseDate": "2022",
       "url": "https://doi.org/10.1364/OPTICA.465361",
-      "summary": "C. Yi, J. Jung, J. Im, K. C. Lee, E. Chung, S. A. Lee.",
+      "summary": "Changyoon Yi, Jaewoo Jung, Jeongmyo Im, Kyung Chul Lee, Euiheon Chung, Seung Ah Lee",
       "type": "journal"
     },
     {
-      "name": "Lensless polarization camera for single-shot full-stokes imaging",
-      "publisher": "APL Photonics",
-      "releaseDate": "2022",
-      "url": "https://doi.org/10.1063/5.0120465",
-      "summary": "N. Baek, Y. Lee, T. Kim, J. Jung, S. A. Lee.",
-      "type": "journal"
-    },
-    {
-      "name": "Fabrication of integrated lensless cameras via UV-imprint lithography",
-      "publisher": "IEEE Photonics Journal",
-      "releaseDate": "2022",
-      "url": "https://doi.org/10.1109/JPHOT.2022.3157373",
-      "summary": "Y. Lee, H. Chae, K. C. Lee, N. Baek, T. Kim, J. Jung, S. A. Lee.",
-      "type": "journal"
-    },
-    {
-      "name": "A smartphone based Fourier ptychographic microscope using the display screen for illumination",
-      "publisher": "ACS Photonics",
+      "name": "ReMember: Using Biosignals to Recall Memories of Companion Animals",
+      "publisher": "Proceedings of the ACM on Computer Graphics and Interactive Techniques (ACM SIGGRAPH’21 Art Paper)",
       "releaseDate": "2021",
-      "url": "https://doi.org/10.1021/acsphotonics.1c00350",
-      "summary": "K. C. Lee, K. Lee, J. Jung, S. H. Lee, D. Kim, S. A. Lee.",
+      "url": "https://doi.org/10.1145/3465614",
+      "summary": "Changyoon Yi, Juhyun Bae, Nakkyu Baek, Jina Jung, Sunwoong Hur, Hyun Jean Lee, Seung Ah Lee",
+      "type": "journal"
+    },
+    {
+      "name": "Ultrastretchable Helical Conductive Fibers Using Percolated Ag Nanoparticle Networks Encapsulated by Elastic Polymers with High Durability in Omnidirectional Deformations for Wearable Electronics",
+      "publisher": "Advanced Functional Materials",
+      "releaseDate": "2020",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.201910026",
+      "summary": "Janghoon Woo, Hyeokjun Lee, Changyoon Yi, Jaehong Lee, Chihyeong Won, Saehyuck Oh, Janghwan Jekal, Chaebeen Kwon, Sanggeun Lee, Jaekang Song, Byungwoo Choi, Kyung-In Jang, Taeyoon Lee",
       "type": "journal"
     }
   ],
@@ -169,19 +153,13 @@
       "name": "Programming Languages",
       "level": "",
       "icon": "fa-solid fa-code",
-      "keywords": ["Python", "C/C++", "Go", "MATLAB"]
-    },
-    {
-      "name": "ML Frameworks",
-      "level": "",
-      "icon": "fa-solid fa-brain",
-      "keywords": ["PyTorch"]
+      "keywords": ["Python", "C", "MATLAB"]
     },
     {
       "name": "Tools",
       "level": "",
       "icon": "fa-solid fa-toolbox",
-      "keywords": ["Docker", "Git", "EasyEDA", "SketchUp"]
+      "keywords": ["Rhinoceros", "KeyShot"]
     }
   ],
   "awards": [
@@ -355,7 +333,7 @@
     }
   ],
   "languages": [
-    { "language": "Korean", "fluency": "Native speaker" },
+    { "language": "Korean", "fluency": "Native" },
     { "language": "English", "fluency": "Fluent" }
   ],
   "interests": [
