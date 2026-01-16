@@ -34,7 +34,7 @@
       "institution": "Yonsei University",
       "location": "Seoul, South Korea",
       "url": "https://ee.yonsei.ac.kr",
-      "area": "Electrical and Electronic Engineering",
+      "area": "Electrical and Electronic Engineering, Double Major in Physics",
       "studyType": "B.S.",
       "startDate": "2015-03-01",
       "endDate": "2020-02-28",
@@ -213,139 +213,21 @@
     }
   ],
   "certificates": [],
-  "projects": [
-    {
-      "name": "Arxiv Monitoring Bot",
-      "summary": "",
-      "highlights": [],
-      "url": "https://github.com/Lukael/arxiv-monitoring-bot",
-      "date": "2025"
-    },
-    {
-      "name": "Dev Environment",
-      "summary": "",
-      "highlights": [],
-      "url": "",
-      "date": "2024"
-    },
-    {
-      "name": "Core-XY Autonomous Chess Board",
-      "summary": "",
-      "highlights": ["Hardware", "Firmware"],
-      "url": "",
-      "date": "2019"
-    },
-    {
-      "name": "Various Swarm Behavior Inspired by Nature using Vibration Locomotion Robots",
-      "summary": "",
-      "highlights": ["Swarm robotics", "Vibration locomotion"],
-      "url": "",
-      "date": "2018"
-    },
-    {
-      "name": "Localization using Multiple Gyroscope",
-      "summary": "",
-      "highlights": ["Firmware", "Kinematics"],
-      "url": "",
-      "date": "2018"
-    },
-    {
-      "name": "Autonomous Driving Cart",
-      "summary": "",
-      "highlights": ["Robotics", "Control"],
-      "url": "",
-      "date": "2017"
-    },
-    {
-      "name": "Autonomous Driving Model Car",
-      "summary": "",
-      "highlights": ["Robotics", "Control"],
-      "url": "",
-      "date": "2016"
-    },
-    {
-      "name": "Humanoid Robot (KHR-1)",
-      "summary": "",
-      "highlights": ["Firmware"],
-      "url": "",
-      "date": "2016"
-    },
-    {
-      "name": "LED Cube (8×8×8)",
-      "summary": "",
-      "highlights": ["Hardware"],
-      "url": "",
-      "date": "2016"
-    },
-    {
-      "name": "Robot Soccer",
-      "summary": "",
-      "highlights": ["Hardware", "Control"],
-      "url": "",
-      "date": "2016"
-    },
-    {
-      "name": "Unmanned Aerial Vehicle (Quadcopter)",
-      "summary": "",
-      "highlights": ["Firmware"],
-      "url": "",
-      "date": "2016"
-    },
-    {
-      "name": "Guitar Effect Pedal",
-      "summary": "",
-      "highlights": [
-        "Replicated and analyzed analog circuits used in bass guitar effects",
-        "Designed and fabricated a guitar effect pedal"
-      ],
-      "url": "",
-      "date": "2016"
-    },
-    {
-      "name": "Smartphone Application for Chemistry Experiment",
-      "summary": "",
-      "highlights": [
-        "Designed electronic circuits for measurement probe development",
-        "Developed a smartphone application for measurement data acquisition"
-      ],
-      "url": "",
-      "date": "2014"
-    },
-    {
-      "name": "Minesweeper Robot using LEGO Mindstorm",
-      "summary": "",
-      "highlights": [
-        "Developed line-following robot algorithms using RobotC",
-        "Designed and integrated robotic hardware modules for payload deployment"
-      ],
-      "url": "",
-      "date": "2013"
-    },
-    {
-      "name": "Developed Filters made from ESM’s Toxic Substances Absorptive Ability",
-      "summary": "",
-      "highlights": [
-        "Developed air purifier filters leveraging ESM's toxic substance adsorption capability",
-        "Analyzed airborne pollutants using UV–Vis spectroscopy"
-      ],
-      "url": "",
-      "date": "2013"
-    }
-  ],
+  "projects": [],
   "languages": [
-    { "language": "Korean", "fluency": "Native speaker" },
+    { "language": "Korean", "fluency": "Native" },
     { "language": "English", "fluency": "Fluent" }
   ],
   "interests": [
     {
       "name": "Professional",
       "icon": "fa-solid fa-tag",
-      "keywords": ["NAS", "DevOps", "Robotics"]
+      "keywords": ["Biosensors", "Health Monitoring", "Wearable Devices"]
     },
     {
       "name": "Personal",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Bass Guitar", "Reading", "Tea"]
+      "keywords": ["Mission", "Pilates", "Japanese Language"]
     }
   ]
 }
